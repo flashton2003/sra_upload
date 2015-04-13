@@ -12,6 +12,8 @@ Run python main.py -h for more details.
 
 This code (especially the public release) is in an alpha release state, any problems, raise a github issue or @flashton2003
 
+Also, it assumes you want to upload to Genome Trackr which is for foodborne pathogens only. If you ask nicely, I might look into giving another option.
+
 # Dependencies (tested with below):
 
 python v2.7
