@@ -10,6 +10,8 @@ You need NCBI credentials to successfully upload (ftp username and password), co
 
 Run python main.py -h for more details.
 
+This code (especially the public release) is in an alpha release state, any problems, raise a github issue or @flashton2003
+
 # Dependencies (tested with below):
 
 python v2.7
